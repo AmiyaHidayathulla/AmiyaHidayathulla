@@ -1,4 +1,4 @@
-![MasterHead](https://as2.ftcdn.net/v2/jpg/04/19/26/97/1000_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)
+![MasterHead](https://t3.ftcdn.net/jpg/03/32/21/56/240_F_332215667_FRtsNh6JCtsstNqBlLmiP5dixFFWNJfS.jpg)
 
 <h1 align="center">Hi 👋, I'm Amiya Hidayathulla</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
