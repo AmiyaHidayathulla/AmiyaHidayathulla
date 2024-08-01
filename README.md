@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Amiya Hidayathulla</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8b9cbc48880a647aba320d4dcf06953ff2ec16205197f1f2242bf5b750000c77/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7164415731546a434e353768316c6275757a766368672e676966">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amiyahidayathulla&label=Profile%20views&color=0e75b6&style=flat" alt="amiyahidayathulla" /> </p>
 
